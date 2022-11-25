@@ -9,8 +9,7 @@ pip install numpy, geopandas, osgeo
 
 # run
 git clone https://github.com/mac999/data_to_shp </br>
-prepare input dataset text file. </br>
-  ex. [[(x, y), (x,y), ...], [(x, y), (x,y), ...], [...]]
+prepare input dataset text file. Ex. [[(x, y), (x,y), ...], [(x, y), (x,y), ...], [...]]
 </br>
 programming read_file() function considering your dataset format. </br>
 run python3 data_to_shp.py </br>
