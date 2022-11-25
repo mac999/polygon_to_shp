@@ -4,6 +4,9 @@ data_to_shp
 # purpose
 convert dataset including polygon's point list to ESRI shp file
 
+# explain
+Refer to https://daddynkidsmakers.blogspot.com/2022/11/shp.html
+
 # packages
 pip install numpy, geopandas, osgeo
 
