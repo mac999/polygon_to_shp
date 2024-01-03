@@ -1,5 +1,5 @@
-# program
-data_to_shp
+# polygon to shape
+polygon_to_shp skeleton code
 
 # purpose
 convert dataset including polygon's point list to ESRI shp file
